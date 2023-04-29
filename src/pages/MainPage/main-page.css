@@ -1,0 +1,7 @@
+.main  {
+    text-align: center;
+}
+
+button:hover {
+    border-radius: 1px solid black;
+}
